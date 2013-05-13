@@ -1,0 +1,38 @@
+﻿
+footer
+{
+    width: 700px;
+    height: 20px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
+
+article
+{
+    margin-top:15px;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-color: orchid;
+    color: white;
+}
+
+article section
+{
+    height: 50px;
+    background-color: gold;
+    color: white;
+    margin: 15px 0px 15px;
+}
+
+aside
+{
+    position: absolute;
+    left: 890px;
+    top: 185px;
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    color: white;
+}
